@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/host-repair-app/static/css/main.7dbc4d11.css",
-    "main.js": "/host-repair-app/static/js/main.26d2424c.js",
+    "main.css": "/host-repair-app/static/css/main.86906dc8.css",
+    "main.js": "/host-repair-app/static/js/main.c091bb66.js",
     "static/js/787.72a7bc6d.chunk.js": "/host-repair-app/static/js/787.72a7bc6d.chunk.js",
     "static/media/constr.png": "/host-repair-app/static/media/constr.e7a8aaebd7dd6fe2a708.png",
     "index.html": "/host-repair-app/index.html",
-    "main.7dbc4d11.css.map": "/host-repair-app/static/css/main.7dbc4d11.css.map",
-    "main.26d2424c.js.map": "/host-repair-app/static/js/main.26d2424c.js.map",
+    "main.86906dc8.css.map": "/host-repair-app/static/css/main.86906dc8.css.map",
+    "main.c091bb66.js.map": "/host-repair-app/static/js/main.c091bb66.js.map",
     "787.72a7bc6d.chunk.js.map": "/host-repair-app/static/js/787.72a7bc6d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7dbc4d11.css",
-    "static/js/main.26d2424c.js"
+    "static/css/main.86906dc8.css",
+    "static/js/main.c091bb66.js"
   ]
 }
